@@ -60084,7 +60084,7 @@ body {
     -webkit-transition: fill 0.3s ease;
     transition: fill 0.3s ease; }
   body[data-header-scroll="on"] .topbar .btn.btn-icon .text-white {
-    color: #464E5F !important; }
+    color: #FFFFFF !important; }
   body[data-header-scroll="on"] .topbar .btn.btn-icon .symbol .symbol-label {
     color: #6993FF !important;
     background-color: #E1E9FF !important; }
