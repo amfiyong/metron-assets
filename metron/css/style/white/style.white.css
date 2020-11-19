@@ -58255,7 +58255,7 @@ body {
       right: 0;
       left: 0;
       z-index: 97;
-      background-color: #ffffff;
+      background:linear-gradient(90deg,#27428F,#7081B5);
       -webkit-box-shadow: 0px 10px 30px 0px rgba(82, 63, 105, 0.08);
       box-shadow: 0px 10px 30px 0px rgba(82, 63, 105, 0.08);
       height: 80px;
@@ -60040,7 +60040,7 @@ body {
           -webkit-transition: fill 0.3s ease;
           transition: fill 0.3s ease; }
     .header-fixed[data-header-scroll="on"] .header-menu .menu-nav > .menu-item > .menu-link .menu-text {
-      color: #80808F; }
+      color: #FFFFFF; }
     .header-fixed[data-header-scroll="on"] .header-menu .menu-nav > .menu-item:hover:not(.menu-item-here):not(.menu-item-active) > .menu-link, .header-fixed[data-header-scroll="on"] .header-menu .menu-nav > .menu-item.menu-item-hover:not(.menu-item-here):not(.menu-item-active) > .menu-link, .header-fixed[data-header-scroll="on"] .header-menu .menu-nav > .menu-item.menu-item-here > .menu-link, .header-fixed[data-header-scroll="on"] .header-menu .menu-nav > .menu-item.menu-item-active > .menu-link {
       background-color: #F3F6F9; }
       .header-fixed[data-header-scroll="on"] .header-menu .menu-nav > .menu-item:hover:not(.menu-item-here):not(.menu-item-active) > .menu-link .menu-text, .header-fixed[data-header-scroll="on"] .header-menu .menu-nav > .menu-item.menu-item-hover:not(.menu-item-here):not(.menu-item-active) > .menu-link .menu-text, .header-fixed[data-header-scroll="on"] .header-menu .menu-nav > .menu-item.menu-item-here > .menu-link .menu-text, .header-fixed[data-header-scroll="on"] .header-menu .menu-nav > .menu-item.menu-item-active > .menu-link .menu-text {
