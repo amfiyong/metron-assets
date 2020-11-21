@@ -21439,7 +21439,7 @@ a.text-dark-75:hover, a.text-dark-75:focus {
     background-color: #E1E9FF !important; }
 
 .bg-diagonal-light-primary:before {
-  background-color: #E1E9FF !important; }
+  background-color: #F3F6F9 !important; }
 
 .bg-light-secondary {
   background-color: #ECF0F3 !important; }
@@ -21469,7 +21469,7 @@ a.text-dark-75:hover, a.text-dark-75:focus {
     background-color: #C9F7F5 !important; }
 
 .bg-diagonal-light-success:before {
-  background-color: #C9F7F5 !important; }
+  background-color: #F3F6F9 !important; }
 
 .bg-light-info {
   background-color: #EEE5FF !important; }
@@ -21499,7 +21499,7 @@ a.text-dark-75:hover, a.text-dark-75:focus {
     background-color: #FFF4DE !important; }
 
 .bg-diagonal-light-warning:before {
-  background-color: #FFF4DE !important; }
+  background-color: #F3F6F9 !important; }
 
 .bg-light-danger {
   background-color: #FFE2E5 !important; }
@@ -21514,7 +21514,7 @@ a.text-dark-75:hover, a.text-dark-75:focus {
     background-color: #FFE2E5 !important; }
 
 .bg-diagonal-light-danger:before {
-  background-color: #FFE2E5 !important; }
+  background-color: #F3F6F9 !important; }
 
 .bg-light-light {
   background-color: #F3F6F9 !important; }
@@ -21741,8 +21741,7 @@ a.text-dark-75:hover, a.text-dark-75:focus {
     top: 0;
     left: 45%;
     -webkit-transform: rotate(20deg);
-    transform: rotate(20deg);
-    background-color: #ffffff; }
+    transform: rotate(20deg); }
 
 .flex-root {
   -webkit-box-flex: 1;
