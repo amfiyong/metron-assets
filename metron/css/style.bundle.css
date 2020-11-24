@@ -6273,7 +6273,7 @@ button.bg-dark-75:focus {
   border-radius: 50% !important; }
 
 .rounded-pill {
-  border-radius: 50rem !important; }
+  border-radius: rem !important; }
 
 .rounded-0 {
   border-radius: 0 !important; }
@@ -20782,7 +20782,7 @@ a.text-dark-75:hover, a.text-dark-75:focus {
     background-color: #212121 !important; }
 
 .bg-dark-o-70 {
-  background-color: rgba(33, 33, 33, 0.28) !important; }
+  background-color: rgba(0, 0, 0, 0.5) !important; }
 
 .bg-hover-dark-o-14 {
   -webkit-transition: all 0.15s ease;
@@ -35753,7 +35753,7 @@ button {
   .btn.btn-square {
     border-radius: 0; }
   .btn.btn-pill {
-    border-radius: 2rem; }
+    border-radius: rem; }
   .btn.btn-text {
     cursor: text; }
   .btn:not(.btn-text) {
@@ -41135,8 +41135,8 @@ button {
 
 .btn.btn-outline-white {
   color: #ffffff;
-  background-color: transparent;
-  border-color: #ffffff; }
+  background-color: rgba(0, 0, 0, 0.5);
+  border-color: rgba(0, 0, 0, 0.1); }
   .btn.btn-outline-white i {
     color: #ffffff; }
   .btn.btn-outline-white .svg-icon svg g [fill] {
