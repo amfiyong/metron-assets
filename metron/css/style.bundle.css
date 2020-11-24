@@ -41165,8 +41165,8 @@ button {
       color: #464E5F; }
   .btn.btn-outline-white.disabled, .btn.btn-outline-white:disabled {
     color: #ffffff;
-    background-color: transparent;
-    border-color: #ffffff; }
+    background-color: rgba(0, 0, 0, 0.5);
+    border-color: rgba(0, 0, 0, 0.1); }
     .btn.btn-outline-white.disabled i, .btn.btn-outline-white:disabled i {
       color: #ffffff; }
     .btn.btn-outline-white.disabled .svg-icon svg g [fill], .btn.btn-outline-white:disabled .svg-icon svg g [fill] {
