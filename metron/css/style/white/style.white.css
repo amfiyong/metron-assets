@@ -52072,7 +52072,7 @@ code {
 .svg-icon.svg-icon-primary svg g [fill] {
   -webkit-transition: fill 0.3s ease;
   transition: fill 0.3s ease;
-  fill: #6993FF !important; }
+  fill: #183582 !important; }
 
 .svg-icon.svg-icon-primary svg:hover g [fill] {
   -webkit-transition: fill 0.3s ease;
@@ -52090,7 +52090,7 @@ code {
 .svg-icon.svg-icon-success svg g [fill] {
   -webkit-transition: fill 0.3s ease;
   transition: fill 0.3s ease;
-  fill: #1BC5BD !important; }
+  fill: #076F6A !important; }
 
 .svg-icon.svg-icon-success svg:hover g [fill] {
   -webkit-transition: fill 0.3s ease;
@@ -52108,7 +52108,7 @@ code {
 .svg-icon.svg-icon-warning svg g [fill] {
   -webkit-transition: fill 0.3s ease;
   transition: fill 0.3s ease;
-  fill: #FFA800 !important; }
+  fill: #795308 !important; }
 
 .svg-icon.svg-icon-warning svg:hover g [fill] {
   -webkit-transition: fill 0.3s ease;
@@ -52117,7 +52117,7 @@ code {
 .svg-icon.svg-icon-danger svg g [fill] {
   -webkit-transition: fill 0.3s ease;
   transition: fill 0.3s ease;
-  fill: #F64E60 !important; }
+  fill: #88101D !important; }
 
 .svg-icon.svg-icon-danger svg:hover g [fill] {
   -webkit-transition: fill 0.3s ease;
