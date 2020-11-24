@@ -18528,7 +18528,7 @@ button.bg-dark-75:focus {
   color: #ffffff !important; }
 
 .text-primary {
-  color: #6993FF !important; }
+  color: #1A73E8 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
   color: #1d5cff !important; }
@@ -18711,8 +18711,8 @@ a.text-dark-75:hover, a.text-dark-75:focus {
   background-color: #6993FF !important; }
 
 .bg-radial-gradient-primary {
-  background-color: #6993FF;
-  background-image: radial-gradient(circle, rgba(225, 233, 255, 0.4), #6993FF 70%); }
+  background-color: #1A73E8;
+  background-image: radial-gradient(circle, rgba(225, 233, 255, 0.4), #1A73E8 50%); }
 
 .bg-primary-o-5 {
   background-color: rgba(105, 147, 255, 0.02) !important; }
@@ -34330,7 +34330,7 @@ button {
 
 .nav.nav-pills.nav-primary .nav-link.active {
   color: #FFFFFF;
-  background-color: #6993FF; }
+  background-color: #1A73E8; }
   .nav.nav-pills.nav-primary .nav-link.active .nav-text {
     color: #FFFFFF; }
   .nav.nav-pills.nav-primary .nav-link.active .nav-icon i {
@@ -44396,7 +44396,7 @@ code {
       .datatable.datatable-default > .datatable-table > .datatable-body .datatable-toggle-detail i {
         -webkit-transition: color 0.3s ease;
         transition: color 0.3s ease;
-        color: #6993FF; }
+        color: #1A73E8; }
         .datatable.datatable-default > .datatable-table > .datatable-body .datatable-toggle-detail i:before {
           line-height: 0;
           vertical-align: middle; }
