@@ -113,7 +113,7 @@ blockquote {
 
 b,
 strong {
-  font-weight: 600; }
+  font-weight: 1000; }
 
 small {
   font-size: 80%; }
@@ -6267,7 +6267,7 @@ button.bg-dark-75:focus {
   border-bottom-left-radius: 0.42rem !important; }
 
 .rounded-lg {
-  border-radius: 0.85rem !important; }
+  border-radius: 0.4rem !important; }
 
 .rounded-circle {
   border-radius: 50% !important; }
