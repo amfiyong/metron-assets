@@ -6197,7 +6197,7 @@ button.bg-dark-75:focus {
   border-left: 1px solid #ECF0F3 !important; }
 
 .border-0 {
-  border: 0 !important; }
+  border: 0.2px solid #DCDEE2; }
 
 .border-top-0 {
   border-top: 0 !important; }
@@ -6273,7 +6273,7 @@ button.bg-dark-75:focus {
   border-radius: 50% !important; }
 
 .rounded-pill {
-  border-radius: rem !important; }
+  border-radius: 0.2rem !important; }
 
 .rounded-0 {
   border-radius: 0 !important; }
@@ -35753,7 +35753,7 @@ button {
   .btn.btn-square {
     border-radius: 0; }
   .btn.btn-pill {
-    border-radius: rem; }
+    border-radius: 0.2rem; }
   .btn.btn-text {
     cursor: text; }
   .btn:not(.btn-text) {
@@ -41135,8 +41135,8 @@ button {
 
 .btn.btn-outline-white {
   color: #ffffff;
-  background-color: rgba(0, 0, 0, 0.5);
-  border-color: rgba(0, 0, 0, 0.1); }
+  background-color: #586CA9;
+  border-color: #586CA9; }
   .btn.btn-outline-white i {
     color: #ffffff; }
   .btn.btn-outline-white .svg-icon svg g [fill] {
