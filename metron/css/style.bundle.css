@@ -2242,7 +2242,7 @@ textarea.form-control {
   background-position: right calc(0.375em + 0.325rem) center;
   background-size: calc(0.75em + 0.65rem) calc(0.75em + 0.65rem); }
   .was-validated .form-control:valid:focus, .form-control.is-valid:focus {
-    border-color: #1BC5BD;
+    border-color: #1A73E8;
     -webkit-box-shadow: 0 0 0 0.2rem rgba(27, 197, 189, 0.25);
     box-shadow: 0 0 0 0.2rem rgba(27, 197, 189, 0.25); }
 
