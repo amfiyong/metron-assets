@@ -35753,7 +35753,8 @@ button {
   .btn.btn-square {
     border-radius: 0; }
   .btn.btn-pill {
-    border-radius: 0.2rem; }
+    border-radius: 0.2rem;
+    width: 100%; }
   .btn.btn-text {
     cursor: text; }
   .btn:not(.btn-text) {
